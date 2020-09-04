@@ -1,0 +1,4 @@
+ git stash 
+ git rebase
+ got push
+ git clone
